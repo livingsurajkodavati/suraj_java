@@ -6,3 +6,4 @@ Commit my code into new file
 edit insructions
 
 
+Merge coflict demo
