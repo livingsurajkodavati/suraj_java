@@ -5,5 +5,3 @@ Commit my code into new file
 
 edit insructions
 
-
-merge conflict
